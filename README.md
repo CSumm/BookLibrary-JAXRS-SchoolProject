@@ -1,5 +1,5 @@
 # BookLibrary-JAXRS-SchoolProject
-JAX-RS with a Java console application to query, add , update and delete books. In collaboration with Grace (Saeri) Lee, and Frederic Paquette
+JAX-RS with a Java console application to query, add , update and delete books. In collaboration with Grace (Saeri) Lee, Frederic Paquette, and Graeme Stewart.
 
 ## Get Started
 To get this application to work, just save the zip file to your computer, download Netbeans with Apache or use any Java IDE with Apache support.
